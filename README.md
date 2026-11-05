@@ -1,5 +1,7 @@
 # 🎨 Zabbix Icons Collection
 
+[![Slovenčina](images/sk.png)](README.md) | [![English](images/en.png)](README_EN.md)
+
 Vlastná kolekcia ikon pre monitorovací systém **Zabbix**.
 
 Ikony používam na vizualizáciu zariadení a služieb vo svojej IT infraštruktúre.
